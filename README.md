@@ -1,1 +1,1 @@
-# Android
+## AndroidThis repo contains a preprocessed collection of questions from the Android forum of the StackExchange family.``corpus.tsv.gz`` contains the question title and body for each question.``dev.[pos|neg].txt`` and ``test.[pos|neg].txt`` are the development and test dataset containing positive and negative instances respectively.
